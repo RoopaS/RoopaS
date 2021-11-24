@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Roopa
 - 👀 I’m interested in Data Science, Data Analytics and Business Analytics
 - 🌱 I’m currently doing my Masters in Data Science at Universiteit van Amsterdam
-- 💞️ I’m looking to collaborate on Data Science Projects
+- 💞️ I’m looking for collaboration on Data Science Projects
 - 📫 Reach me at sroopa3@outlook.com
 
 <!---
